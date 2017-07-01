@@ -22,7 +22,7 @@ No you do not. With every `make build` you clean it all up before recompiling. I
 ## Who made this? I need to give each of them a handshake
 Well, thank these guys. They are awesome.
 
-[Hugo Brandão (Me!)](https://github.com/jhugobb)
+[Hugo Brandão](https://github.com/jhugobb)
 
 [Sérgio Alves](https://github.com/a-sac)
 
